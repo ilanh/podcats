@@ -33,15 +33,12 @@ layout: default
         {% if page.videoid %}
                 {% include video.html videoid = page.videoid %}
         {% endif %}
+        {% assign shows = page.shows %}
+        {% for show in shows %}
+        {{ show }}
+        {% endfor %}
 
         {{ content }}
 
-        {% if site.data.settings.shownotes == true %}
-                {% include shownotes.html %}
-        {% endif %}
-
         
 </div>
-{% if site.settings.disqus-shortname %}
-        {%- include disqus.html -%}
-{% endif %}
