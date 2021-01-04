@@ -12,7 +12,7 @@ title: Categories
 
         <ul>
           {% for post in site.categories[category_name] %}
-            <li><a class="archive-link" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+            <li><a class="archive-link" href="{{ site.url }}{{ post.url }}">{{post.title}}</a></li>
           {% endfor %}
         </ul>
     </div>
