@@ -3,7 +3,7 @@ analytics-id:
 pages:
   - {name: 'Episodes', url: 'episodes'}
   - {name: 'Categories', url: 'categories'}
-  - {name: 'Shows', url: 'shows'}
+  - {name: 'Tags', url: 'tags'}
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
