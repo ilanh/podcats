@@ -9,7 +9,7 @@ length: "52:14" # mm:ss
 # videoid: dQw4w9WgXcQ #Copy here only the id of your YouTube video. Optional
 tags: [news,local]
 show: local-news
-cover: podcasts/assets/img/Podcast_Cover_Small.jpg
+cover: assets/img/Podcast_Cover_Small.jpg
 ---
 
 Here you can write things for this episode.
