@@ -36,10 +36,10 @@ layout: default
 
         {% assign tags = page.tags %}
         {% for tag in tags %}
-        <h3>{{ tag }}</h3>
+        <a href="{% capture url %}/tags#{{ tag | slugify }}{% endcapture %}
+                  {{ url | absolute_url }}">{{tag}}</a>
+                  {% unless forloop.last %}&nbsp;{% endunless %} 
         {% endfor %}
 
         {{ content }}
-
-        
 </div>
