@@ -2,8 +2,8 @@
 title: "Listen Headlines Podcasts"
 description: "Podcasters"
 podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
-url:  "https://ilanh.github.io" # Actual base url of the website
-baseurl: "podcats"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+url:  "https://ilanh.github.io/podcats" # Actual base url of the website
+baseurl: ""                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Ilan Harel"
   email: "@gmail.com"
