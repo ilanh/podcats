@@ -2,17 +2,15 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', url: 'episodes.html'}
-  - {name: 'Patreon', url: '#'}
-  - {name: 'Shop', url: '#'}
-  - {name: 'GitHub', url: 'https://github.com/PandaSekh'}
-  - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
+  - {name: 'Categories', url: 'categories.html'}
+  - {name: 'Shows', url: 'shows.html'}
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/name'}
   - {icon: 'facebook', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:mmmm2@gmail.com'}
   - {icon: 'rss', type: "solid", link: "#"}
 
 websites-podcast:
