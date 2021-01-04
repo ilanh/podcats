@@ -1,8 +1,8 @@
 ---
-title: A random extra episode - EXTRA
+title: A random extra episode 15
 layout: post
-categories: [Example, Jekyll]
-type: extra # I use this to split main episodes to extra ones
+categories: [General, TopNews]
+type: main # I use this to split main episodes to extra ones
 description: Description goes here
 file: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3 #Link to your .mp3 file
 length: "52:14" # mm:ss
