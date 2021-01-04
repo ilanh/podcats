@@ -28,7 +28,7 @@ websites-podcast:
   - {name: 'RSS', link: '#'}
 
 translate-date: true #See _includes/date.html to translate the months' name
-shownotes: true
+shownotes: false
 
 #Disqus
 disqus:
