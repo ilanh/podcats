@@ -1,9 +1,9 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', url: 'episodes.html'}
-  - {name: 'Categories', url: 'categories.html'}
-  - {name: 'Shows', url: 'shows.html'}
+  - {name: 'Episodes', url: 'episodes'}
+  - {name: 'Categories', url: 'categories'}
+  - {name: 'Shows', url: 'shows'}
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
