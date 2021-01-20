@@ -12,4 +12,4 @@ show: local-news
 ---
 
 Here you can write things for this episode.
-For instructions on how to use this theme, see the [repo on GitHub](https://github.com/PandaSekh/Jekyll-Podcaster).
+For instructions on how to use this theme, see the 
