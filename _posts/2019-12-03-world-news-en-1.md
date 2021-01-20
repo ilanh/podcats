@@ -9,10 +9,14 @@ length: "52:14" # mm:ss
 # videoid: dQw4w9WgXcQ #Copy here only the id of your YouTube video. Optional
 tags: [news,local]
 show: local-news
-cover: assets/img/Podcast_Cover_Small.jpg
+excerpt_separator: <!--more-->
+cover: assets/img/portfolio/safe.png
+feature-img: "assets/img/feature-img/story.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/story.jpeg"
 ---
 
-Here you can write things for this episode.
+Here comes: more
+<!--more-->
 Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
 ## Title
