@@ -10,6 +10,8 @@ length: "22:14" # mm:ss
 tags: [news,local,nyc]
 show: local-news
 cover: assets/img/portfolio/cake.png
+feature-img: "assets/img/feature-img/desk-messy.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
 ---
 
 Here you can write things for this episode.
