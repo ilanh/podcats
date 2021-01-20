@@ -28,7 +28,6 @@ layout: default
           {{- page.title -}}
   {% endcapture %}
 
-  {% include player.html file = file title = title %}
 
   {% if page.videoid %}
           {% include video.html videoid = page.videoid %}
@@ -43,6 +42,7 @@ layout: default
   {% if page.bootstrap %}
     <div class="bootstrap-iso">
     {% endif %}
+      {% include player.html file = file title = title %}
       {{ content }}
     {% if page.bootstrap %}
     </div>
