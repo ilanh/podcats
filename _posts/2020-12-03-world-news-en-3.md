@@ -1,7 +1,7 @@
 ---
 title: World News ep 16
 layout: podcast
-categories: [General, TopNews, World]
+categories: [WorldNews]
 type: main # I use this to split main episodes to extra ones
 description: Description goes heresdsd
 file: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3 #Link to your .mp3 file
