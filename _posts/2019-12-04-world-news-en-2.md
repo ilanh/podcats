@@ -1,6 +1,6 @@
 ---
 title: A random extra episode 15
-layout: post
+layout: podcast
 categories: [General, TopNews]
 type: main # I use this to split main episodes to extra ones
 description: Description goes here

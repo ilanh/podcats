@@ -1,6 +1,6 @@
 ---
 title: World News ep 16
-layout: post
+layout: podcast
 categories: [General, TopNews, World]
 type: main # I use this to split main episodes to extra ones
 description: Description goes heresdsd

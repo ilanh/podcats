@@ -1,5 +1,12 @@
-<footer>
-    <p>
-        Copyright <a href="{{ site.author.url }}">{{ site.author.name }}</a>. All Right Reserved. <!-- DO NOT DELETE -->Theme designed by <a href="https://alessiofranceschi.me/">Alessio Franceschi</a>.
-    </p>
+<footer class="site-footer">
+    <p class="text">
+        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                {% include icons.html %}
+                </ul>
+            </div>
 </footer>
+
+
