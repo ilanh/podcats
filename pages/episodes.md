@@ -9,7 +9,7 @@ title: Episodes
 {% for post in site.posts %}    
     {% if post.type == "main" %}
         <li>
-            <a href="{{ site.url }}{{ post.url }}"> {{ post.title }} </a>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a>
         </li>
     {% endif %}
 
@@ -21,7 +21,7 @@ title: Episodes
 {% for post in site.posts %}    
     {% if post.type == "extra" %}
         <li>
-            <a href="{{ site.url }}{{ post.url }}"> {{ post.title }} </a>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a>
         </li>
     {% endif %}
 
