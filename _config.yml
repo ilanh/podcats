@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/podcats"
 title: "Listen Headlines Podcasts"
 description: "Podcasters"
 podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
-url:  "https://ilanh.github.io/podcats" # Actual base url of the website
+url:  "https://ilanh.github.io" # Actual base url of the website
 author:
   name: "Ilan Harel"
   email: "@gmail.com"
   url: "https://"
-permalink: pretty
-permalink: /:title
+# permalink: pretty
+# permalink: /:title
 
 keywords: [podcast, jekyll]
 
