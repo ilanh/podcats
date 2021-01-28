@@ -39,7 +39,7 @@ An example of a Gist embed below:
 
 <script defer=true src="https://gist.github.com/sylhare/dad7ed1ef3d13614c77c4ebadf8a11c3.js"></script>
 
-You can use `defer=true` so that the loading of the gist doesn't prevent the loading of the page.
+You can use `defer=true` so that the loading[^2] of the gist doesn't prevent the loading of the page.
 
 {% highlight html %}
 {% raw %}
@@ -52,3 +52,5 @@ You can use `defer=true` so that the loading of the gist doesn't prevent the loa
 
 [^1]: 
     {% include citation.html key="highlight" %}
+[^2]: 
+    {% include citation.html key="ref2" %}
