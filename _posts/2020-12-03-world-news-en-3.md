@@ -52,5 +52,6 @@ You can use `defer=true` so that the loading[^2] of the gist doesn't prevent the
 
 [^1]: 
     {% include citation.html key="highlight" %}
+
 [^2]: 
     {% include citation.html key="ref2" %}
