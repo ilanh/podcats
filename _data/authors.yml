@@ -6,6 +6,18 @@ sylhare:
   name: Sylhare
   avatar: "https://avatars3.githubusercontent.com/u/20642750?s=460&v=4"
   url: "https://github.com/sylhare"
+feed_139:
+  name: "FOX News"
+  avatar: "https://mng.listenheadlines.com/f.php?d45d86f0"
+  url: "http://www.foxnews.com/"
+feed_304:
+  name: "Basketball Insiders | NBA Rumors And Basketball News"
+  avatar: "https://mng.listenheadlines.com/f.php?acf4098a"
+  url: "http://www.basketballinsiders.com/"
+unknown:
+  name: Unknown
+  avatar:
+  url:
 mmistakes:
   name: "Michael Rose"
   avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
@@ -14,7 +26,3 @@ mhagnumdw:
   name: Mhagnumdw
   avatar: "https://avatars2.githubusercontent.com/u/17688846?s=460&v=4"
   url: "https://github.com/ilanh"
-unknown:
-  name: Unknown
-  avatar:
-  url:

@@ -18,7 +18,7 @@ Here you can write things for this episode.
 
 ### Code Blocks in Lists
 
-Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., `1.`). Usually this will mean indenting 3 spaces instead of 4.
+Indentation matters. Be sure the indent of the code block aligns[^1] instead of 4.
 
 1. Do step 1.
 2. Now do this:
