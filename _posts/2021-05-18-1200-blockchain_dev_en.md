@@ -1,10 +1,10 @@
 ---
-title: Blockchain-english
+title: Blockchain-english - 2021-05-18-1200
 layout: podcast
 categories: [Blockchain]
 type: main
 description: Brought to you  by  PlatoBlockchain.
-file: https://plato-audiostream.s3.amazonaws.com/archive/blockchain_dev_en-2021-05-18-1200.mp3 
+file: "https://plato-audiostream.s3.amazonaws.com/archive/blockchain_dev_en-2021-05-18-1200.mp3" 
 length: 04:01
 # videoid: dQw4w9WgXcQ #Copy here only the id of your YouTube video. Optional
 tags: [Bitcoin,Crypto,million,FOX,Partners,Rick,Morty,Co,Creator,Launch,NFT,Marketplace,]

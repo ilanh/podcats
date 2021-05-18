@@ -1,10 +1,10 @@
 ---
-title: Blockchain-french
+title: Blockchain-french - 2021-05-18-1200
 layout: podcast
 categories: [Blockchain]
 type: main
 description: Présenté par PlatoBlockchain.
-file: https://plato-audiostream.s3.amazonaws.com/archive/blockchain_dev_fr-2021-05-18-1200.mp3 
+file: "https://plato-audiostream.s3.amazonaws.com/archive/blockchain_dev_fr-2021-05-18-1200.mp3" 
 length: 03:32
 # videoid: dQw4w9WgXcQ #Copy here only the id of your YouTube video. Optional
 tags: [millions,dollars,Bitcoin,FOX,associe,co,créateur,Rick,Morty,lancer,NFT,Marketplace,]
