@@ -11,7 +11,7 @@ show: "Blockchain-english"
 excerpt_separator: <!--more-->
 cover: "https://plato-audiostream.s3.amazonaws.com/images/blockchain_dev_en-2021-05-18-1500.png"
 # feature-img: "https://plato-audiostream.s3.amazonaws.com/images/blockchain_dev_en-2021-05-18-1500.png"
-thumbnail: "https://plato-audiostream.s3.amazonaws.com/images/blockchain_dev_en-2021-05-18-1500_t.png"
+thumbnail: "https://plato-audiostream.s3.amazonaws.com/images/blockchain_dev_en-2021-05-18-1500.png"
 ---
 
 Here comes: Blockchain-english
@@ -22,9 +22,9 @@ Here comes: Blockchain-english
 
 
 
-### MicroStrategy Buys Dip, Accumulates 229 More BTC For $10 Million  
-
 May 18, 10:15 (America New York)
+
+### MicroStrategy Buys Dip, Accumulates 229 More BTC For $10 Million  
 
 #### Bitcoin Magazine
 
@@ -35,9 +35,9 @@ By Peter Chawaga
 ----  
 
 
-### Central Bank of China Bans Crypto Trading For Institutions and Businesses  
-
 May 18, 10:11 (America New York)
+
+### Central Bank of China Bans Crypto Trading For Institutions and Businesses  
 
 #### Coingape
 
@@ -48,9 +48,9 @@ By Prashant Jha
 ----  
 
 
-### China Bans Payment Firms From Crypto Business  
-
 May 18, 10:09 (America New York)
+
+### China Bans Payment Firms From Crypto Business  
 
 #### Decrypt
 
@@ -61,9 +61,9 @@ By Scott Chipolina
 ----  
 
 
-### Banking App Current Taps Acala for “HyFi” on Polkadot  
-
 May 18, 10:05 (America New York)
+
+### Banking App Current Taps Acala for “HyFi” on Polkadot  
 
 #### Crypto Briefing
 
@@ -74,9 +74,9 @@ By Chris Williams
 ----  
 
 
-### What’s the prevailing price plot for Ethereum?  
-
 May 18, 10:00 (America New York)
+
+### What’s the prevailing price plot for Ethereum?  
 
 #### AMB Crypto
 
@@ -87,9 +87,9 @@ By Ekta Mourya
 ----  
 
 
-### Revuto Raises $1.7M in Private Round as Cardano’s First dApp  
-
 May 18, 09:54 (America New York)
+
+### Revuto Raises $1.7M in Private Round as Cardano’s First dApp  
 
 #### coinspeaker
 
@@ -100,9 +100,9 @@ May 18, 09:54 (America New York)
 ----  
 
 
-### 5 Typical Investing Mistakes with Cryptocurrency You Should Avoid  
-
 May 18, 09:53 (America New York)
+
+### 5 Typical Investing Mistakes with Cryptocurrency You Should Avoid  
 
 #### Finance Magnates | Financial and business news
 
@@ -113,9 +113,9 @@ By Finance Magnates Staff
 ----  
 
 
-### Top Reasons Cardano Price could hit $5 soon. It’s Not Too Late to Buy  
-
 May 18, 09:53 (America New York)
+
+### Top Reasons Cardano Price could hit $5 soon. It’s Not Too Late to Buy  
 
 #### InsideBitcoins.com
 
@@ -126,9 +126,9 @@ By Ali Raza
 ----  
 
 
-### Gem-Hunting in Cryptoland: How to Capitalize on Alt Season  
-
 May 18, 09:47 (America New York)
+
+### Gem-Hunting in Cryptoland: How to Capitalize on Alt Season  
 
 #### Finance Magnates | Financial and business news
 
@@ -139,9 +139,9 @@ By Finance Magnates Staff
 ----  
 
 
-### StormGain: Crypto Mining now available on all smartphones  
-
 May 18, 09:45 (America New York)
+
+### StormGain: Crypto Mining now available on all smartphones  
 
 #### AMB Crypto
 
@@ -152,9 +152,9 @@ By Anjali Sriniwasan
 ----  
 
 
-### First Derivatives’ FY2021 Profits Drop by 39%, Outlook Remains Strong  
-
 May 18, 09:42 (America New York)
+
+### First Derivatives’ FY2021 Profits Drop by 39%, Outlook Remains Strong  
 
 #### Finance Magnates | Financial and business news
 
@@ -165,9 +165,9 @@ By Arnab Shome
 ----  
 
 
-### Bitcoin’s Market Share Falls Below 40%  
-
 May 18, 09:41 (America New York)
+
+### Bitcoin’s Market Share Falls Below 40%  
 
 #### Trustnodes
 
@@ -178,9 +178,9 @@ By Trustnodes
 ----  
 
 
-### Litecoin Price Surges Ahead, Poises to Reclaim $400 High  
-
 May 18, 09:38 (America New York)
+
+### Litecoin Price Surges Ahead, Poises to Reclaim $400 High  
 
 #### coinidol
 
