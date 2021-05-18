@@ -24,77 +24,77 @@ Here comes: Blockchain-french
 
 ### FOX s&#39;associe au co-créateur Rick et Morty pour lancer NFT Marketplace  
 
-[Link to source](https://cryptopotato.com/fox-partners-with-rick-and-morty-co-creator-to-launch-nft-marketplace/)  
+[Link to article on CryptoPotato](https://cryptopotato.com/fox-partners-with-rick-and-morty-co-creator-to-launch-nft-marketplace/){:target="_blank"}  
 
-#### May 18, 12:19 (Europe Paris)
+May 18, 12:19 (Europe Paris)
 
-CryptoPotato  
+#### CryptoPotato  
 
 ----  
 
 
 ### Luchadores.io lancé à l&#39;aide de ChainLink VRF  
 
-[Link to source](https://www.cryptonewsz.com/luchadores-io-launched-using-chainlink-vrf/)  
+[Link to article on CryptoNewsZ](https://www.cryptonewsz.com/luchadores-io-launched-using-chainlink-vrf/){:target="_blank"}  
 
-#### May 18, 12:10 (Europe Paris)
+May 18, 12:10 (Europe Paris)
 
-CryptoNewsZ - By Roxanne Williams  
+#### CryptoNewsZ - By Roxanne Williams  
 
 ----  
 
 
 ### Le dépositaire Crypto Copper conclut une augmentation de 50 millions de dollars de série B  
 
-[Link to source](https://www.theblockcrypto.com/linked/105168/crypto-custodian-copper-closes-50-million-series-b-raise?utm_source=rss&utm_medium=rss)  
+[Link to article on The Block](https://www.theblockcrypto.com/linked/105168/crypto-custodian-copper-closes-50-million-series-b-raise?utm_source=rss&utm_medium=rss){:target="_blank"}  
 
-#### May 18, 12:10 (Europe Paris)
+May 18, 12:10 (Europe Paris)
 
-The Block - By Ryan Weeks  
+#### The Block - By Ryan Weeks  
 
 ----  
 
 
 ### Les revenus du réseau Ethereum pourraient atteindre le record de 722 millions de dollars  
 
-[Link to source](https://www.dcforecasts.com/ethereum-news/ethereum-network-revenue-could-breach-record-722-million/)  
+[Link to article on Ethereum News – Cryptocurrency News | Bitcoin News | Cryptonews | DC Forecasts.com](https://www.dcforecasts.com/ethereum-news/ethereum-network-revenue-could-breach-record-722-million/){:target="_blank"}  
 
-#### May 18, 12:09 (Europe Paris)
+May 18, 12:09 (Europe Paris)
 
-Ethereum News – Cryptocurrency News | Bitcoin News | Cryptonews | DC Forecasts.com - By Stefan  
+#### Ethereum News – Cryptocurrency News | Bitcoin News | Cryptonews | DC Forecasts.com - By Stefan  
 
 ----  
 
 
 ### Prédiction de prix Bitcoin: Bitcoin continue de se consolider autour de 44000 $, pousser plus haut aujourd&#39;hui?  
 
-[Link to source](https://www.cryptopolitan.com/bitcoin-price-prediction-2021-05-18/)  
+[Link to article on Cryptopolitan](https://www.cryptopolitan.com/bitcoin-price-prediction-2021-05-18/){:target="_blank"}  
 
-#### May 18, 12:01 (Europe Paris)
+May 18, 12:01 (Europe Paris)
 
-Cryptopolitan - By Egil Lapin  
+#### Cryptopolitan - By Egil Lapin  
 
 ----  
 
 
 ### Six personnes connectées à une arnaque cryptographique de 36 millions de dollars arrêtées, système exploité à partir de plusieurs endroits en Europe  
 
-[Link to source](https://news.bitcoin.com/six-people-connected-to-a-36m-crypto-scam-arrested-scheme-operated-from-multiple-locations-in-europe/)  
+[Link to article on Bitcoin News](https://news.bitcoin.com/six-people-connected-to-a-36m-crypto-scam-arrested-scheme-operated-from-multiple-locations-in-europe/){:target="_blank"}  
 
-#### May 18, 12:00 (Europe Paris)
+May 18, 12:00 (Europe Paris)
 
-Bitcoin News - By Felipe Erazo  
+#### Bitcoin News - By Felipe Erazo  
 
 ----  
 
 
 ### Un rapport de la BOA indique que le Kimchi Premium est le résultat du contrôle des flux de capitaux  
 
-[Link to source](https://coingape.com/boa-report-says-kimchi-premium-result-of-capital-flow-control/)  
+[Link to article on Coingape](https://coingape.com/boa-report-says-kimchi-premium-result-of-capital-flow-control/){:target="_blank"}  
 
-#### May 18, 11:56 (Europe Paris)
+May 18, 11:56 (Europe Paris)
 
-Coingape - By Prashant Jha  
+#### Coingape - By Prashant Jha  
 
 ----  
   
