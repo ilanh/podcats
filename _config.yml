@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/podcats"
-title: "Listen Headlines Podcasts"
+title: "Plato AI Streams"
 description: "Podcasters"
-podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
+podcast-description: "Multiple verticle markets"
 url:  "https://ilanh.github.io" # Actual base url of the website
 author:
   name: "Ilan Harel"
@@ -18,9 +18,9 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Site Header # Change Blog header text
+header_text: Plato AI Streams # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
-footer_text: Footer Text
+footer_text: Our sites at: https://platoblockchain.net/
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
