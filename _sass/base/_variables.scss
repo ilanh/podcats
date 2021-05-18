@@ -59,23 +59,41 @@ $font-size-code: 0.85em !default;
 $font-height-code: 1.3em !default;
 $border-radius: 4px !default;
 
+
+$base00: #2b303b !default;
+$base01: #343d46 !default;
+$base02: #4f5b66 !default;
+$base03: #65737e !default;
+$base04: #a7adba !default;
+$base05: #c0c5ce !default;
+$base06: #dfe1e8 !default;
+$base07: #eff1f5 !default;
+$base08: #bf616a !default;
+$base09: #d08770 !default;
+$base0A: #ebcb8b !default;
+$base0B: #a3be8c !default;
+$base0C: #96b5b4 !default;
+$base0D: #8fa1b3 !default;
+$base0E: #b48ead !default;
+$base0F: #ab7967 !default;
+
 // base16 Material Theme
-$base00: #302f2d !default; // Default Background
-$base01: #2E3C43 !default; // Lighter Background (Used for status bars) - NOT USED
-$base02: #314549 !default; // Selection Background - NOT USED
-$base03: #546E7A !default; // Dark Foreground (Used for status bars) - NOT USED
-$base04: #B2CCD6 !default; // Comments, Invisible, Line Highlighting
-$base05: #EEFFFF !default; // Light Foreground (Not often used)
-$base06: #EEFFFF !default; // Light Background (Not often used)
-$base07: #FFFFFF !default; // Default Foreground, Default text color
-$base08: #F07178 !default; // Parenthesis, Caret, Delimiters, Operators
-$base09: #F78C6C !default; // Classes, Markup Bold, Search Text Background
-$base0a: #FFCB6B !default; // Strings, Inherited Class, Markup Code, Diff Inserted
-$base0b: #98C379 !default; // Functions, Methods, Attribute IDs, Headings
-$base0c: #89DDFF !default; // Support, Regular Expressions, Escape Characters, Markup Quotes
-$base0d: #82AAFF !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
-$base0e: #C792EA !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
-$base0f: #FF5370 !default; // Deprecated, Opening/Closing Embedded Language Tags e.g.
+// $base00: #302f2d !default; // Default Background
+// $base01: #2E3C43 !default; // Lighter Background (Used for status bars) - NOT USED
+// $base02: #314549 !default; // Selection Background - NOT USED
+// $base03: #546E7A !default; // Dark Foreground (Used for status bars) - NOT USED
+// $base04: #B2CCD6 !default; // Comments, Invisible, Line Highlighting
+// $base05: #EEFFFF !default; // Light Foreground (Not often used)
+// $base06: #EEFFFF !default; // Light Background (Not often used)
+// $base07: #FFFFFF !default; // Default Foreground, Default text color
+// $base08: #F07178 !default; // Parenthesis, Caret, Delimiters, Operators
+// $base09: #F78C6C !default; // Classes, Markup Bold, Search Text Background
+// $base0a: #FFCB6B !default; // Strings, Inherited Class, Markup Code, Diff Inserted
+// $base0b: #98C379 !default; // Functions, Methods, Attribute IDs, Headings
+// $base0c: #89DDFF !default; // Support, Regular Expressions, Escape Characters, Markup Quotes
+// $base0d: #82AAFF !default; // Keywords, Storage, Selector, Markup Italic, Diff Changed
+// $base0e: #C792EA !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
+// $base0f: #FF5370 !default; // Deprecated, Opening/Closing Embedded Language Tags e.g.
 
 // base16 Monokai
 //$base00: #272822 !default; // Default Background
