@@ -20,7 +20,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 # Header and footer text
 header_text: Plato AI Streams # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
-footer_text: Our sites at: https://platoblockchain.net/
+footer_text: Check us at platoblockchain.net
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
