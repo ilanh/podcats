@@ -14,12 +14,12 @@ author:
 keywords: [podcast, jekyll]
 
 # THEME-SPECIFIC CONFIGURATION
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/logo1-3-plato.png
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Plato AI Streams # Change Blog header text
-header_feature_image: assets/img/pexels/logo1-3-plato.png
+header_feature_image: assets/img/triangle.png
 footer_text: Check us at platoblockchain.net
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
