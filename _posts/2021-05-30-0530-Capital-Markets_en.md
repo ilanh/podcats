@@ -1,0 +1,673 @@
+---
+title: Capital-Markets - 2021-05-30-0530
+layout: podcast
+categories: [Capital-Markets]
+type: main
+description: Capital-Markets is Brought to you by Plato Data Intelligence.
+file: "https://plato-audiostream.s3.amazonaws.com/archive/Capital-Markets_en-2021-05-30-0530.mp3" 
+length: "20:23"
+tags: [Forecast,CFTC,previous,USD,Net Positions,May,Oil,GBP,United States,June,Dollar,Price,]
+show: "Capital-Markets"
+excerpt_separator: <!--more-->
+cover: "https://plato-audiostream.s3.amazonaws.com/images/Capital-Markets_en-2021-05-30-0530.png"
+# feature-img: "https://plato-audiostream.s3.amazonaws.com/images/Capital-Markets_en-2021-05-30-0530.png"
+thumbnail: "https://plato-audiostream.s3.amazonaws.com/images/Capital-Markets_en-2021-05-30-0530.png"
+---
+
+Here comes: Capital-Markets
+<!--more-->
+## Capital-Markets
+
+----  
+
+
+
+May 30, 03:36 (America New York)
+
+### GBP/USD Forecast May 31-June 4 – PMI reports in focus  
+
+#### Forex Crunch
+
+By Kenny Fisher  
+
+[Read More](https://www.forexcrunch.com/gbp-usd-forecast-may-31-june-4-pmi-reports-in-focus/){:target="_blank"}  
+
+----  
+
+
+May 30, 02:49 (America New York)
+
+### IPO Ratings: 5/31/21 – 6/4/21  
+
+#### http:／／www.ipoboutique.com／blog／feed／
+
+By Jeff Zell  
+
+[Read More](http://www.ipoboutique.com/blog/ipo-ratings-5-31-21-6-4-21/){:target="_blank"}  
+
+----  
+
+
+May 30, 02:09 (America New York)
+
+### USD/CAD Forecast May 31-June 4 – Will Canada GDP boost Canadian dollar?  
+
+#### Forex Crunch
+
+By Kenny Fisher  
+
+[Read More](https://www.forexcrunch.com/usd-cad-forecast-may-31-june-4-will-canada-gdp-boost-canadian-dollar/){:target="_blank"}  
+
+----  
+
+
+May 30, 00:27 (America New York)
+
+### COLLAPSE 2021 Clint Lee, Ted Bauman, Banyanhill  
+
+#### Stock Gumshoe
+
+By chalmers  
+
+[Read More](https://www.stockgumshoe.com/2021/05/microblog-collapse-2021-clint-lee-ted-bauman-banyanhill/){:target="_blank"}  
+
+----  
+
+
+May 30, 00:00 (America New York)
+
+### Euro Forecast: EUR/USD Price Outlook Positive, Well Placed For More Gains  
+
+#### DailyFX - Market News
+
+By Martin Essex， MSTA  
+
+[Read More](https://www.dailyfx.com/forex/fundamental/forecast/weekly/eur/2021/05/30/Euro-Forecast-EURUSD-Price-Outlook-Positive-Well-Placed-For-More-Gains.html){:target="_blank"}  
+
+----  
+
+
+May 29, 16:00 (America New York)
+
+### Gold Forecast Bright on Weak USD; Silver Eyes Multi-Year High  
+
+#### DailyFX - Market News
+
+By Rich Dvorak  
+
+[Read More](https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/05/29/gold-forecast-bright-on-weak-usd-silver-eyes-multi-year-high.html){:target="_blank"}  
+
+----  
+
+
+May 29, 12:38 (America New York)
+
+### Precipice MT5 Indicator  
+
+#### ForexMT4Indicators.com
+
+By Forex Committees  
+
+[Read More](https://www.forexmt4indicators.com/precipice-mt5-indicator/?utm_source=rss&#038;utm_medium=rss&%23038;utm_campaign=precipice-mt5-indicator){:target="_blank"}  
+
+----  
+
+
+May 29, 12:36 (America New York)
+
+### Standard Deviation Channels x3 MT5 Indicator  
+
+#### ForexMT4Indicators.com
+
+By Forex Committees  
+
+[Read More](https://www.forexmt4indicators.com/standard-deviation-channels-x3-mt5-indicator/?utm_source=rss&#038;utm_medium=rss&%23038;utm_campaign=standard-deviation-channels-x3-mt5-indicator){:target="_blank"}  
+
+----  
+
+
+May 29, 12:15 (America New York)
+
+### Weekly Fundamental US Dollar Forecast: Inflation Fears Linger; May US NFP Due Friday  
+
+#### DailyFX - Market News
+
+By Christopher Vecchio， CFA  
+
+[Read More](https://www.dailyfx.com/forex/fundamental/forecast/weekly/usd/2021/05/29/weekly-fundamental-us-dollar-forecast-inflation-fears-linger-may-us-nfp-due-friday.html){:target="_blank"}  
+
+----  
+
+
+May 29, 10:07 (America New York)
+
+### European Stocks and US Futures Rise  
+
+#### FinanceBrokerage
+
+By Ana Khan  
+
+[Read More](https://www.financebrokerage.com/european-stocks-and-us-futures-rise/){:target="_blank"}  
+
+----  
+
+
+May 29, 09:24 (America New York)
+
+### June seasonals: USD/CHF set up for softness  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/june-seasonals-usdchf-set-for-softness-20210529){:target="_blank"}  
+
+----  
+
+
+May 29, 08:00 (America New York)
+
+### Can Silver Futures Crack $30?  
+
+#### INO.com Trader's Blog
+
+By Mike Seery  
+
+[Read More](https://www.ino.com/blog/2021/05/can-silver-futures-crack-30/){:target="_blank"}  
+
+----  
+
+
+May 29, 06:41 (America New York)
+
+### Lost in Translation: Why Asia Fintech Companies are Not Expanding into Europe  
+
+#### FinTech – Finance Magnates | Financial and business news
+
+By Anil Uzun  
+
+[Read More](https://www.financemagnates.com/fintech/lost-in-translation-why-asia-fintech-companies-are-not-expanding-into-europe/){:target="_blank"}  
+
+----  
+
+
+May 29, 03:00 (America New York)
+
+### Bitcoin (BTC), Ethereum (ETH), Alt-Coins - Beware of Weekend Volatility  
+
+#### DailyFX - Market News
+
+By Nick Cawley  
+
+[Read More](https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/05/29/Bitcoin-BTC-Ethereum-ETH-Alt-Coins-Beware-of-Weekend-Volatility.html){:target="_blank"}  
+
+----  
+
+
+May 28, 22:00 (America New York)
+
+### Australian Dollar Forecast: AUD/USD May Wilt on RBA, Falling Iron Ore Prices  
+
+#### DailyFX - Market News
+
+By Daniel Dubrovsky  
+
+[Read More](https://www.dailyfx.com/forex/fundamental/forecast/weekly/aud/2021/05/29/Australian-Dollar-Forecast-AUDUSD-May-Wilt-on-RBA-Falling-Iron-Ore-Prices.html){:target="_blank"}  
+
+----  
+
+
+May 28, 20:32 (America New York)
+
+### Thoughts on a Sunday Afternoon, May 30, 2021 (posted May 28)  
+
+#### Peter Brandt – Factor Trading
+
+By Peter Brandt  
+
+[Read More](https://www.peterlbrandt.com/thoughts-on-a-sunday-afternoon-may-30-2021-posted-may-28/){:target="_blank"}  
+
+----  
+
+
+May 28, 20:28 (America New York)
+
+### Virtuoso Acquisition Corp. (VOSO) to Combine with Wejo in $800M Deal  
+
+#### SPACInsider
+
+By Nicholas Alan Clayton  
+
+[Read More](https://spacinsider.com/2021/05/28/virtuoso-acquisition-corp-to-combine-with-wejo-in-800m-deal/){:target="_blank"}  
+
+----  
+
+
+May 28, 17:47 (America New York)
+
+### SoftBank makes $250M bet on neobank platform Zeta   
+
+#### Bank Automation News
+
+By Myra Thomas  
+
+[Read More](https://bankautomationnews.com/allposts/infrastructure/softbank-makes-250m-bet-on-neobank-platform-zeta/){:target="_blank"}  
+
+----  
+
+
+May 28, 17:37 (America New York)
+
+### Shelf Secondaries ＆ Filings (05.24.21-05.28.21)  
+
+#### http:／／www.ipoboutique.com／blog／feed／
+
+By Jeff Zell  
+
+[Read More](http://www.ipoboutique.com/blog/shelf-secondaries-filings-05-24-21-05-28-21/){:target="_blank"}  
+
+----  
+
+
+May 28, 17:15 (America New York)
+
+### ForexLive Americas FX news wrap: Core PCE hits highest in nearly 30 years  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/forexlive-nth-american-fx-news-28-may-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 17:08 (America New York)
+
+### DAN FERRIS STANSBERRY EXTREME VALUE  
+
+#### Stock Gumshoe
+
+By cbmasterchief  
+
+[Read More](https://www.stockgumshoe.com/2021/05/microblog-dan-ferris-stansberry-extreme-value/){:target="_blank"}  
+
+----  
+
+
+May 28, 17:02 (America New York)
+
+### Japan CFTC JPY NC Net Positions rose from previous ¥-50.9K to ¥-50.2K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/japan-cftc-jpy-nc-net-positions-rose-from-previous-y-509k-to-y-502k-202105282102){:target="_blank"}  
+
+----  
+
+
+May 28, 17:02 (America New York)
+
+### United States CFTC Oil NC Net Positions declined to 475.5K from previous 475.9K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/united-states-cftc-oil-nc-net-positions-declined-to-4755k-from-previous-4759k-202105282102){:target="_blank"}  
+
+----  
+
+
+May 28, 17:01 (America New York)
+
+### United Kingdom CFTC GBP NC Net Positions up to £30.7K from previous £24.9K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/united-kingdom-cftc-gbp-nc-net-positions-up-to-ps307k-from-previous-ps249k-202105282101){:target="_blank"}  
+
+----  
+
+
+May 28, 17:01 (America New York)
+
+### United States CFTC S＆P 500 NC Net Positions up to $-18.5K from previous $-23.2K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/united-states-cftc-sp-500-nc-net-positions-up-to-185k-from-previous-232k-202105282101){:target="_blank"}  
+
+----  
+
+
+May 28, 17:01 (America New York)
+
+### Australia CFTC AUD NC Net Positions dipped from previous $3K to $-0.8K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/australia-cftc-aud-nc-net-positions-dipped-from-previous-3k-to-08k-202105282101){:target="_blank"}  
+
+----  
+
+
+May 28, 17:01 (America New York)
+
+### European Monetary Union CFTC EUR NC Net Positions climbed from previous €99.9K to €104K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/european-monetary-union-cftc-eur-nc-net-positions-climbed-from-previous-eu999k-to-eu104k-202105282101){:target="_blank"}  
+
+----  
+
+
+May 28, 17:01 (America New York)
+
+### United States CFTC Gold NC Net Positions: $214.6K  vs $198.9K  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/united-states-cftc-gold-nc-net-positions-2146k-vs-1989k-202105282101){:target="_blank"}  
+
+----  
+
+
+May 28, 17:00 (America New York)
+
+### Mexico Fiscal Balance, pesos: -26.62B (April) vs previous 15.94B  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/mexico-fiscal-balance-pesos-2662b-april-vs-previous-1594b-202105282100){:target="_blank"}  
+
+----  
+
+
+May 28, 16:27 (America New York)
+
+### US stocks stumble into the long weekend, giving back most gains  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/us-stocks-stumble-into-the-long-weekend-giving-back-most-gains-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 16:27 (America New York)
+
+### 05.24.21-05.28.21 IPO Summary  
+
+#### http:／／www.ipoboutique.com／blog／feed／
+
+By Kristi Jones  
+
+[Read More](http://www.ipoboutique.com/blog/05-24-21-05-28-21-ipo-summary/){:target="_blank"}  
+
+----  
+
+
+May 28, 16:00 (America New York)
+
+### Biden Administration Reveals 2021-22 Budget Forecast, Lack of Growth Apparent  
+
+#### DailyFX - Market News
+
+By Brendan Fagan  
+
+[Read More](https://www.dailyfx.com/forex/market_alert/2021/05/28/Biden-Administration-Reveals-2021-22-Budget-Forecast-Lack-of-Growth-Apparent.html){:target="_blank"}  
+
+----  
+
+
+May 28, 15:53 (America New York)
+
+### Three Steps To Avoid Trading On Tilt  
+
+#### TraderFeed
+
+By Brett Steenbarger， Ph.D.  
+
+[Read More](https://traderfeed.blogspot.com/2021/05/three-steps-to-avoid-trading-on-tilt.html){:target="_blank"}  
+
+----  
+
+
+May 28, 15:42 (America New York)
+
+### Weekly CFTC Commitments of Traders data: Cable gets a bit of love  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/weekly-cftc-commitments-of-traders-data-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 15:29 (America New York)
+
+### Week Ahead – Wall Street believes inflation will be transitory  
+
+#### MarketPulse
+
+By Ed Moya  
+
+[Read More](https://www.marketpulse.com/20210528/week-ahead-wall-street-believes-inflation-will-transitory/){:target="_blank"}  
+
+----  
+
+
+May 28, 15:03 (America New York)
+
+### Weekly Wrap: KeyBank ramps up RPA use, Wall Street questioned by U.S. Senate  
+
+#### Bank Automation News
+
+By Jaspreet Kalra  
+
+[Read More](https://bankautomationnews.com/allposts/infrastructure/weekly-wrap-keybank-ramps-up-rpa-use-wall-street-questioned-by-u-s-senate/){:target="_blank"}  
+
+----  
+
+
+May 28, 15:03 (America New York)
+
+### Market Insights Podcast (Episode 201)  
+
+#### MarketPulse
+
+By Ed Moya  
+
+[Read More](https://www.marketpulse.com/20210528/market-insights-podcast-episode-201/){:target="_blank"}  
+
+----  
+
+
+May 28, 14:52 (America New York)
+
+### GBP/JPY longs were the best FX trade this month  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/technical-analysis/!/gbpjpy-longs-were-the-best-fx-trade-this-month-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 14:41 (America New York)
+
+### Oil slumps late to finish down 53-cents on the day  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/oil-slumps-late-to-finish-down-53-cents-on-the-day-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 14:28 (America New York)
+
+### Friday File: PW Maxes Out, NVDA and BOMN Report, and more…  
+
+#### Stock Gumshoe
+
+By Travis Johnson， Stock Gumshoe  
+
+[Read More](https://www.stockgumshoe.com/2021/05/friday-file-pw-maxes-out-nvda-and-bomn-report-and-more/){:target="_blank"}  
+
+----  
+
+
+May 28, 14:18 (America New York)
+
+### Pound Sterling Price News and Forecast GBP/USD: Nonfarm Payrolls and the virus curve set to stir sterling  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/pound-sterling-price-news-and-forecast-gbp-usd-nonfarm-payrolls-and-the-virus-curve-set-to-stir-sterling-202105281818){:target="_blank"}  
+
+----  
+
+
+May 28, 14:02 (America New York)
+
+### In a tight range for now; staying core bearish for 1.15 - BofA  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/in-a-tight-range-for-now-staying-core-bearish-for-115-bofa-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 13:39 (America New York)
+
+### Google launches new financial services offering for market, regulatory, other data  
+
+#### Bank Automation News
+
+By Loraine Lawson  
+
+[Read More](https://bankautomationnews.com/allposts/cloud-computing/google-launches-new-financial-services-offering-for-market-regulatory-other-data/){:target="_blank"}  
+
+----  
+
+
+May 28, 13:39 (America New York)
+
+### Biden budget forecasts 10-year deficit of $14.531 trillion  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/biden-budget-forecasts-10-year-deficit-of-14531-trillion-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 13:07 (America New York)
+
+### Baker Hughes US oil rig count 359 vs 356 prior  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/baker-hughes-us-oil-rig-count-359-vs-356-prior-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 13:03 (America New York)
+
+### Commodities and Cryptos: Oil steady, Gold survives hot Core PCE reading, Bitcoin lower  
+
+#### MarketPulse
+
+By Ed Moya  
+
+[Read More](https://www.marketpulse.com/20210528/commodities-cryptos-oil-steady-gold-survives-hot-core-pce-reading-bitcoin-lower/){:target="_blank"}  
+
+----  
+
+
+May 28, 13:02 (America New York)
+
+### US: Unemployment rate to resume downtrend after April's surprising rise – TDS  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/us-unemployment-rate-to-resume-downtrend-after-aprils-surprising-rise-tds-202105281702){:target="_blank"}  
+
+----  
+
+
+May 28, 13:01 (America New York)
+
+### United States Baker Hughes US Oil Rig Count climbed from previous 356 to 359  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/united-states-baker-hughes-us-oil-rig-count-climbed-from-previous-356-to-359-202105281701){:target="_blank"}  
+
+----  
+
+
+May 28, 12:52 (America New York)
+
+### April Dallas Fed trimmed mean +2.4% annualized vs +2.2% prior  
+
+#### Forexlive RSS Breaking News Feed
+
+  
+
+[Read More](https://www.forexlive.com/news/!/april-dallas-fed-trimmed-mean-24-annualized-vs-22-prior-20210528){:target="_blank"}  
+
+----  
+
+
+May 28, 12:47 (America New York)
+
+### White House sees strong GDP growth in 2021-2022 – NYT  
+
+#### https:／／www.fxstreet.com／rss
+
+  
+
+[Read More](https://www.fxstreet.com/news/white-house-sees-strong-gdp-growth-in-2021-2022-nyt-202105281647){:target="_blank"}  
+
+----  
+  
